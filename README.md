@@ -1,4 +1,4 @@
-# Countdow Timer / Timer contagem regressiva
+# Countdow Timer / Temporizador
  
  
 ![image](https://user-images.githubusercontent.com/67476981/198831855-f517551b-5b88-4372-8c4e-dee77712199c.png)
