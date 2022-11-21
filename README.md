@@ -13,7 +13,7 @@ O programa teve como finalizade aperfeiçoar meu aprendizado em funções no Jav
 - JavaScript
 
 ## Site hospedado:
- [Countdown](https://worldcup-countdown-jh12.netlify.app/)
+ [Countdown](https://countdown-jhenrique12.netlify.app/) 
 
 ## Links úteis:
 - Documentação no MDN do construtor [Date()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/Date), principal elemento utilizado no código.
