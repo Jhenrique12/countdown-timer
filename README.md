@@ -1,10 +1,10 @@
 # Countdow Timer / Temporizador
  
  
-![image](https://user-images.githubusercontent.com/67476981/198831855-f517551b-5b88-4372-8c4e-dee77712199c.png)
+![image](https://user-images.githubusercontent.com/67476981/203060994-1edf9d11-05eb-4e4f-a4a4-0fd1d951de78.png)
 
 ## Sobre 
-O projeto consiste em um temporizador para um evento em específico, atualmente sendo a Copa do Mundo 2022. 
+O projeto consiste em um temporizador para um evento em específico, atualmente sendo a Ano Novo. 
 O programa teve como finalizade aperfeiçoar meu aprendizado em funções no JavaScript e noções de lógica de programação e de matemática, principalmente para limitar o timer no período desejado.
 
 ## Tecnologias usadas:
