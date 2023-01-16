@@ -3,7 +3,7 @@ const hoursEl = document.getElementById("hours");
 const minutesEl = document.getElementById("minutes");
 const secondsEl = document.getElementById("seconds");
 
-const eventDay = "1 Jan 2023"; // Ano novo - New Year
+const eventDay = "1 Jan 2024"; // Ano novo - New Year
 
 function countdown() {
   const eventDate = new Date(eventDay);
